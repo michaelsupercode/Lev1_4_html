@@ -11,8 +11,12 @@ body {
    margin: 5vh;
   }
 
+  h2  {
+    margin: 2vh;
+  }
+
   .basic {
-    margin: 3vh;
+    margin: 1vh;
     padding: 4.7em;
   }
 
